@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    position: relative;
+    background:black;
+    
+}
+.ananas{
+    background:rgb(15, 15, 15);
+}
+.navbar{
+    padding-top: 30px;
+}
+.active{
+    background:blue;
+}
+
+footer.hr{
+    width:1px;
+    margin: bottom 0px!important;;
+}
+h1, h2, h3, h4{
+    padding-top:100px;
+    text-align: center;
+    padding-bottom:30px;
+}
